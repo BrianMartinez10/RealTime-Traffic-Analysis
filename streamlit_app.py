@@ -67,4 +67,4 @@ if city:
     else:
         st.error("Failed to retrieve data from OpenWeatherMap API. Please try again.")
 
-!ls  # Check if the file exists in the current directory
+#!ls  # Check if the file exists in the current directory
